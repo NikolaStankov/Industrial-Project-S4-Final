@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Sports",
+        "image":"topic-sports.png"
+    },
+    {
+        "title":"Politics",
+        "image":"topic-politics.png"
+    },
+    {
+        "title":"Education",
+        "image":"topic-education.png"
+    },
+    {
+        "title":"Crime",
+        "image":"topic-crime.png"
+    },
+    {
+        "title":"Weather",
+        "image":"topic-weather.png"
+    },
+    {
+        "title":"Space",
+        "image":"topic-space.png"
+    }
+]
